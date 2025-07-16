@@ -1,5 +1,5 @@
 # Consumer Opinion Analysis: A Data-Driven Examination of E-commerce Product Reviews
-![Project Overview](Project_overview.png)
+![Project Overview](Project_overviewW.png)
 ## Project Overview
 
 This project conducts a comprehensive data-driven analysis of consumer opinions and feedback collected from various leading e-commerce platforms, including Flipkart, Amazon, Fresh India Organics, and BigBasket. Focusing primarily on reviews for **fruits**, this study aims to extract valuable insights into customer sentiments, identify key product attributes, and understand the underlying structure of consumer discourse.
