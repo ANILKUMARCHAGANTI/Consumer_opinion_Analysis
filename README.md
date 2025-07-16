@@ -33,13 +33,13 @@ The project employs a multi-faceted approach, integrating several data analysis 
 The repository is organized as follows:
 
 * `Bigram_trigaram.ipynb`: Jupyter Notebook for N-gram generation and visualization.
-* `FDS_part1.1 (3).ipynb`: Jupyter Notebook for N-gram analysis and TF-IDF vectorization.
-* `FDS_PART1.2 (3).ipynb`: Jupyter Notebook focusing on hierarchical clustering of comments.
-* `FDS_Part1-Copy1 (1).ipynb`: Jupyter Notebook for sentiment analysis and evaluation (e.g., classification report).
-* `FDS_part3-Copy1 (1).ipynb`: Jupyter Notebook for statistical analysis (t-tests, correlations).
-* `FDS_part4-Copy1 (1).ipynb`: Jupyter Notebook for term co-occurrence network analysis.
-* `FDS_Step1(Sentimental Analysis)-Copy1.ipynb`: Jupyter Notebook containing initial sentiment analysis steps.
-* `FDSDENDOGARM22-Copy1.ipynb`: Jupyter Notebook for dendrogram visualization of important terms.
+* `FDS_part1.1.ipynb`: Jupyter Notebook for N-gram analysis and TF-IDF vectorization.
+* `FDS_PART1.2.ipynb`: Jupyter Notebook focusing on hierarchical clustering of comments.
+* `FDS_Part1.ipynb`: Jupyter Notebook for sentiment analysis and evaluation (e.g., classification report).
+* `FDS_part3(1).ipynb`: Jupyter Notebook for statistical analysis (t-tests, correlations).
+* `FDS_part4(1).ipynb`: Jupyter Notebook for term co-occurrence network analysis.
+* `FDS_Step1(Sentimental Analysis).ipynb`: Jupyter Notebook containing initial sentiment analysis steps.
+* `FDSDENDOGARM22.ipynb`: Jupyter Notebook for dendrogram visualization of important terms.
 * `FDSDENDOGRAM.ipynb`: Further Jupyter Notebook for dendrogram analysis.
 * `FDS_TotalDataSet.csv`: The primary raw consumer review dataset.
 * `FDS_TotalDataSet22_withsentiment.xls`: Processed dataset including sentiment scores.
